@@ -13,4 +13,17 @@ You can run this script by copying it into a main.py file and running it with Py
 
 Please note that fine-tuning a language model can be a time-consuming process, even with a smaller model like distilgpt2 and a small dataset.
 
+instructions: open your terminal and paste:
+    pip install torch torchvision torchaudio
+    pip install transformers
+
+
+create a folder for your python file. download the main.py to that folder. 
+
+in terminal "cd" the path of the main.py file.
+
+python main.py <--- paste that now into terminal and it will activate it. if on macbook its python3 main.py 
+
+Use chatgpt4 with browser assist for any help. 
+
 
